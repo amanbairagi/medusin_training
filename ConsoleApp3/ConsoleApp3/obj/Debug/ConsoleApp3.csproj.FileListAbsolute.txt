@@ -1,0 +1,8 @@
+D:\medusind\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\medusind\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\medusind\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\medusind\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\medusind\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+D:\medusind\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\medusind\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\medusind\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
