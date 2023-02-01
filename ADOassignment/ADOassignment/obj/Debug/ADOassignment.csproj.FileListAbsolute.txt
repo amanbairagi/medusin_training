@@ -1,0 +1,8 @@
+D:\medusind\ADOassignment\ADOassignment\bin\Debug\ADOassignment.exe.config
+D:\medusind\ADOassignment\ADOassignment\bin\Debug\ADOassignment.exe
+D:\medusind\ADOassignment\ADOassignment\bin\Debug\ADOassignment.pdb
+D:\medusind\ADOassignment\ADOassignment\obj\Debug\ADOassignment.csproj.AssemblyReference.cache
+D:\medusind\ADOassignment\ADOassignment\obj\Debug\ADOassignment.csproj.SuggestedBindingRedirects.cache
+D:\medusind\ADOassignment\ADOassignment\obj\Debug\ADOassignment.csproj.CoreCompileInputs.cache
+D:\medusind\ADOassignment\ADOassignment\obj\Debug\ADOassignment.exe
+D:\medusind\ADOassignment\ADOassignment\obj\Debug\ADOassignment.pdb
