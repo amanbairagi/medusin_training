@@ -1,0 +1,8 @@
+D:\medusind\CSharpAssignment4\CSharpAssignment4\bin\Debug\CSharpAssignment4.exe.config
+D:\medusind\CSharpAssignment4\CSharpAssignment4\bin\Debug\CSharpAssignment4.exe
+D:\medusind\CSharpAssignment4\CSharpAssignment4\bin\Debug\CSharpAssignment4.pdb
+D:\medusind\CSharpAssignment4\CSharpAssignment4\obj\Debug\CSharpAssignment4.csproj.AssemblyReference.cache
+D:\medusind\CSharpAssignment4\CSharpAssignment4\obj\Debug\CSharpAssignment4.csproj.SuggestedBindingRedirects.cache
+D:\medusind\CSharpAssignment4\CSharpAssignment4\obj\Debug\CSharpAssignment4.csproj.CoreCompileInputs.cache
+D:\medusind\CSharpAssignment4\CSharpAssignment4\obj\Debug\CSharpAssignment4.exe
+D:\medusind\CSharpAssignment4\CSharpAssignment4\obj\Debug\CSharpAssignment4.pdb

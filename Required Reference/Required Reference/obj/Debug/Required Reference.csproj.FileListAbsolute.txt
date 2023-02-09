@@ -1,0 +1,12 @@
+D:\medusind\Required Reference\Required Reference\bin\Debug\Required Reference.exe.config
+D:\medusind\Required Reference\Required Reference\bin\Debug\Required Reference.exe
+D:\medusind\Required Reference\Required Reference\bin\Debug\Required Reference.pdb
+D:\medusind\Required Reference\Required Reference\bin\Debug\CSharpAssignment4.exe
+D:\medusind\Required Reference\Required Reference\bin\Debug\CSharpAssignment4.pdb
+D:\medusind\Required Reference\Required Reference\bin\Debug\CSharpAssignment4.exe.config
+D:\medusind\Required Reference\Required Reference\obj\Debug\Required Reference.csproj.AssemblyReference.cache
+D:\medusind\Required Reference\Required Reference\obj\Debug\Required Reference.csproj.SuggestedBindingRedirects.cache
+D:\medusind\Required Reference\Required Reference\obj\Debug\Required Reference.csproj.CoreCompileInputs.cache
+D:\medusind\Required Reference\Required Reference\obj\Debug\Required Reference.csproj.CopyComplete
+D:\medusind\Required Reference\Required Reference\obj\Debug\Required Reference.exe
+D:\medusind\Required Reference\Required Reference\obj\Debug\Required Reference.pdb
